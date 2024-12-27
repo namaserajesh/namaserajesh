@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Rajesh Namase**, a passionate **entrepreneur** and **tech blogger** from Bharat (India). I love exploring the world of technology, digital marketing, and empowering others with actionable insights.
+I'm **Rajesh Namase**, a passionate **entrepreneur** and **tech blogger** from Bharat (India). I love exploring the world of technology, and digital marketing, and empowering others with actionable insights.
 
 I have extensive experience in SEO, affiliate marketing, and running successful tech-based businesses. My goal is to make the internet a better place by sharing valuable content and tools.
 
-Read more about my journey and projects on my [DataFeature bio](https://datafeature.com/about/team/rajesh-namase/). If you'd like to reach out, feel free to use the [TechLila Contact Us form](https://www.techlila.com/contact/).
+Read more about my journey and projects in my [DataFeature bio](https://datafeature.com/about/team/rajesh-namase/). If you'd like to reach out, feel free to use the [TechLila Contact Us form](https://www.techlila.com/contact/).
