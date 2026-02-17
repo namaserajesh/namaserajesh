@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Rajesh Namase**, a passionate **entrepreneur** and **tech blogger** from Bharat (India). I love exploring the world of technology, and digital marketing, and empowering others with actionable insights.
+I'm **Rajesh Namase**, an **Entrepreneur**, **Tech Journalist**, and **IT Engineer** from Pune, Bharat (India). I specialize in building high-performance digital platforms, SEO architecture, and editorial strategy.
 
-I have extensive experience in SEO, affiliate marketing, and running successful tech-based businesses. My goal is to make the internet a better place by sharing valuable content and tools.
+With over **15 years** of experience in the technology and digital media landscape, I leverage my technical foundation to scale global ventures like **DataFeature**, **WebGeeksMedia** and **Prudour**. Since **September 2010**, I leverage my IT Engineering background to translate complex technical concepts into actionable insights through my flagship platform, **TechLila.com**.
 
-Read more about my journey and projects in my [DataFeature bio](https://datafeature.com/about/team/rajesh-namase/). If you'd like to reach out, feel free to use the [TechLila Contact Us form](https://www.techlila.com/contact/).
+Read more about my professional journey and projects in my [DataFeature bio](https://datafeature.com/about/team/rajesh-namase/). If you'd like to reach out, feel free to use the [TechLila Contact Us form](https://www.techlila.com/contact/).
