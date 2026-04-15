@@ -34,11 +34,6 @@ Building custom WordPress tooling and automation workflows — themes, plugins, 
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/-NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namaserajesh&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namaserajesh&layout=compact&theme=default&count_private=true)
-
 ## Writing & research
 
 - **[TechLila.com](https://www.techlila.com)** — Technology, SEO, WordPress tutorials
@@ -51,6 +46,3 @@ Building custom WordPress tooling and automation workflows — themes, plugins, 
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/namaserajesh)
 [![TechLila](https://img.shields.io/badge/-TechLila-222222?style=flat-square&logo=hashnode&logoColor=white)](https://www.techlila.com/contact/)
 
----
-
-<sub>⚡ Fun fact: "Namase" in my handle isn't a name — it's "Namaste" shortened. The greeting, minus the 't'.</sub>
