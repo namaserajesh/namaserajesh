@@ -2,7 +2,7 @@
 
 I'm an **Entrepreneur**, **Tech Journalist**, and **IT Engineer** from Pune, Bharat (India). I specialize in building high-performance digital platforms, SEO architecture, and editorial strategy.
 
-With over **15 years** of experience in the technology and digital media landscape, I leverage my technical foundation to scale global ventures like **[DataFeature](https://datafeature.com)**, **WebGeeksMedia**, and **Prudour**. Since **September 2010**, I translate complex technical concepts into actionable insights through my flagship platform, **[TechLila.com](https://www.techlila.com)**.
+With over **15 years** of experience in the technology and digital media landscape, I translate complex technical concepts into actionable insights through my flagship platform, **[TechLila.com](https://www.techlila.com)**, which I've been running since **September 2010**.
 
 ## What I'm working on
 
@@ -37,8 +37,6 @@ Building custom WordPress tooling and automation workflows — themes, plugins, 
 ## Writing & research
 
 - **[TechLila.com](https://www.techlila.com)** — Technology, SEO, WordPress tutorials
-- **[DataFeature.com](https://datafeature.com)** — Data-driven research and editorial
-- **[Professional bio on DataFeature](https://datafeature.com/about/team/rajesh-namase/)**
 
 ## Connect
 
